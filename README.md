@@ -1,1 +1,1 @@
-# todoMVCApp
+# SpringMVCApp
